@@ -1,0 +1,19 @@
+{
+  "name": "mean_ang2",
+  "version": "1.0.0",
+  "description": "MEAN stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neriosoft/mean-stack-angular2.git"
+  },
+  "author": "neriosoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neriosoft/mean-stack-angular2/issues"
+  },
+  "homepage": "https://github.com/neriosoft/mean-stack-angular2#readme"
+}
